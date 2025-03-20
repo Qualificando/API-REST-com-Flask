@@ -19,7 +19,7 @@ Uma API REST simples para gerenciamento de tarefas construída com Flask.
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/simple-task-api.git
+https://github.com/Qualificando/API-REST-com-Flask
 cd simple-task-api
 ```
 
