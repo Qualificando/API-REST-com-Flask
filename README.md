@@ -87,4 +87,4 @@ simple-task-api/
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [https://github.com/Qualificando/API-REST-com-Flask/blob/ae41b96a355b83284d5aea9c9cfe1ce3a42cdcd6/License/flask-api-license.md](LICENSE) para mais detalhes.
